@@ -26,11 +26,7 @@ Full-stack web application designed to manage motorcycle services, product sales
 
 ---
 
-##  Screenshots
 
-*(Screenshots will be added soon)*
-
----
 
 ##  Project Notes
 

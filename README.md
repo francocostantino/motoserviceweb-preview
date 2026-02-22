@@ -32,7 +32,7 @@ Full-stack web application designed to manage motorcycle services, product sales
 ![Admin Panel](images/dashboardAdmin.png)
 ![Shopping Cart](images/Carrito.png)
 ![ticket panel](images/Ticket.png)
-![products panel](images/Producto.png)
+![products panel](images/Productos.png)
 ---
 
 ##  Project Notes

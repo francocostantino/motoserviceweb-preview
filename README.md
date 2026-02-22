@@ -28,11 +28,11 @@ Full-stack web application designed to manage motorcycle services, product sales
 
 ## 🖼️ Screenshots
 
-![Login Screen](images/loginAdmin.png)
+![Login Screen](images/LoginAdmin.png)
 ![Admin Panel](images/dashboardAdmin.png)
-![Shopping Cart](images/carrito.png)
-![ticket panel](images/ticket.png)
-![products panel](images/producto.png)
+![Shopping Cart](images/Carrito.png)
+![ticket panel](images/Ticket.png)
+![products panel](images/Producto.png)
 ---
 
 ##  Project Notes

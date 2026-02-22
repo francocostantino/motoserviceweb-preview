@@ -1,34 +1,46 @@
-# motoserviceweb-preview
+# MotoServiceWeb (Preview)
 
+Full-stack web application designed to manage motorcycle services, product sales, and inventory in a repair shop environment.
 
-Fullstack web application for managing motorcycle services, sales and inventory.
+---
 
 ##  Technologies Used
 
 - Node.js
 - Express
-- Sequelize
+- Sequelize (ORM)
 - MySQL
 - HTML, CSS, JavaScript
+- MVC Architecture
+- REST API
 
-##  Features
+---
 
-- User registration and login
-- Product management panel
+##  Main Features
+
+- User registration and authentication
+- Admin panel for product management
 - Shopping cart system
-- REST API architecture (MVC)
+- Inventory tracking
+- Service management workflow
+
+---
 
 ##  Screenshots
 
-(Add images here later)
+*(Screenshots will be added soon)*
 
-##  Installation
+---
 
-1. Clone the repository
-2. Run npm install
-3. Configure database
-4. Run npm start
+##  Project Notes
+
+This repository is a **public preview version** created for portfolio purposes.
+
+The original project contains full configuration files, environment variables, and additional implementation details.
+
+---
 
 ##  Author
 
-- Franco Costantino
+**Franco Costantino**
+

@@ -28,8 +28,8 @@ Full-stack web application designed to manage motorcycle services, product sales
 
 ## 🖼️ Screenshots
 
-![Login Screen](images/login admin.png)
-![Admin Panel](images/dashboard admin.png)
+![Login Screen](images/loginAdmin.png)
+![Admin Panel](images/dashboardAdmin.png)
 ![Shopping Cart](images/carrito.png)
 ![ticket panel](images/ticket.png)
 ![products panel](images/producto.png)
